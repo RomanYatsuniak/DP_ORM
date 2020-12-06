@@ -1,1 +1,4 @@
 .idea
+node_modules
+library/node_modules
+library/dist
